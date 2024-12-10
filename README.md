@@ -1,1 +1,6 @@
-ff
+# useMemo
+
+# React.memo()
+
+# useCallback
+
